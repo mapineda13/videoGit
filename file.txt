@@ -1,0 +1,9 @@
+Instrucciones:
+1. Ubicarse en el directorio a gitear
+	Comando git version para ver la version de git instalada
+2. Convertir carpeta en working directory
+	comando git init
+	comando git status -s 'ver estados de archivos
+3. Agregar archivos al station area
+	comando git add nombrearchivo/punto si son toodos los archivos
+	
